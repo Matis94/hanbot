@@ -1,2 +1,2 @@
-# Ezevade lua port
-Hanbot, riot server
+
+# Hanbot addons
