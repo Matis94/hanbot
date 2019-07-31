@@ -200,8 +200,8 @@ local function OnDraw()
 	end
 	if menu.draws.drawr:get() then
 		if player:spellSlot(3).level == 1 then
-			minimap.draw_circle(player.pos, 3520, 2, menu.draws.colorr:get(), 30)
-			graphics.draw_circle(player.pos, 3520, 2, menu.draws.colorr:get(), 30)
+			minimap.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
+			graphics.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
 		end
 		if player:spellSlot(3).level == 2 then
 			minimap.draw_circle(player.pos, 4840, 2, menu.draws.colorr:get(), 30)
