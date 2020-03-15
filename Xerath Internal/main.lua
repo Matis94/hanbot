@@ -204,12 +204,12 @@ local function OnDraw()
 			graphics.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
 		end
 		if player:spellSlot(3).level == 2 then
-			minimap.draw_circle(player.pos, 4840, 2, menu.draws.colorr:get(), 30)
-			graphics.draw_circle(player.pos, 4840, 2, menu.draws.colorr:get(), 30)
+			minimap.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
+			graphics.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
 		end
 		if player:spellSlot(3).level == 3 then
-			minimap.draw_circle(player.pos, 6160, 2, menu.draws.colorr:get(), 30)
-			graphics.draw_circle(player.pos, 6160, 2, menu.draws.colorr:get(), 30)
+			minimap.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
+			graphics.draw_circle(player.pos, 5000, 2, menu.draws.colorr:get(), 30)
 		end
 	end
 
