@@ -16,3 +16,5 @@ Xerath Internal:
 
 
 Hanbot3: How to install - put file into hanbot\league of legends\developer
+
+Addon works best with gagong xerath!
