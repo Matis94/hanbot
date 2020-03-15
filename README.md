@@ -12,3 +12,7 @@ Xerath Internal:
 • Auto gapclose ON/OFF
 • Interrupt spells ON/OFF
 • Option disable evade during ult
+
+
+
+Hanbot3: How to install - put file into hanbot\league of legends\developer
