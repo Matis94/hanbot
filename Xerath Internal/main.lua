@@ -82,7 +82,7 @@ local interruptableSpells = {
 	}
 }
 
-local menu = menu("Xerathplus", "Xerath Internal+")
+local menu = menu("Xerathplus", "Xerath Addon+")
 
 menu:menu("Gap", "Gapcloser Settings")
 menu.Gap:boolean("GapA", "Use E for Anti-Gapclose", true)
