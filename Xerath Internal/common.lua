@@ -310,10 +310,10 @@ local excluded_minions = {
 }
 
 local function valid_minion(minion)
-  return minion and minion.type == TYPE_MINION and not minion.isDead and minion.health > 0 and minion.maxHealth > 100 and
-    minion.maxHealth < 10000 and
-    not minion.name:find("Ward") and
-    not excluded_minions[minion.name]
+  --return minion and minion.type == TYPE_MINION and not minion.isDead and minion.health > 0 and minion.maxHealth > 100 and
+  --  minion.maxHealth < 10000 and
+  -- not minion.name:find("Ward") and
+  -- not excluded_minions[minion.name]
 end
 
 local function valid_hero(hero)
