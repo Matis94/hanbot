@@ -1,9 +1,9 @@
 return {
   id = 'Xerathplus',
-  name = "Xerath Internal+",
+  name = "Xerath Addon By Matis",
   riot = true,
   flag = {
-    text = "Xerath Internal+",
+    text = "Xerath Addon By Matis",
     color = {
       text = 0xFFEDD7E6,
       background1 = 0xFFEDBBDC,
